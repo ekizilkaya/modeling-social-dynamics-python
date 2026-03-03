@@ -1,6 +1,6 @@
 # Modeling Social Dynamics: Python Simulations
 
-This repository provides a Python implementation of the simulations featured in Paul Smaldino’s *Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution*.
+This repository provides a Python implementation of the simulations featured in Paul Smaldino’s *Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution*.
 
 This project is a functional port and enhancement of the original Julia implementation by [BenjaFried/modsoc_Julia](https://github.com/BenjaFried/modsoc_Julia).
 
@@ -64,4 +64,4 @@ This project is a derivative work. Please attribute the original Julia developer
 
 **Original Author:** [Benjamin Fried](https://csh.ac.at/95906-2/)
 
-**Textbook:** [Modeling Social Dynamics: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior) by Paul Smaldino.
+**Textbook:** [Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior) by Paul Smaldino.
