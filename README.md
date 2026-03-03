@@ -1,6 +1,6 @@
 # Modeling Social Dynamics: Python Simulations
 
-This repository provides a Python implementation of the simulations featured in Paul Smaldino’s *Modeling Social Dynamics: A Cycle of Iterative Development*.
+This repository provides a Python implementation of the simulations featured in Paul Smaldino’s *Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution*.
 
 This project is a functional port and enhancement of the original Julia implementation by [BenjaFried/modsoc_Julia](https://github.com/BenjaFried/modsoc_Julia).
 
