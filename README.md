@@ -64,4 +64,4 @@ This project is a derivative work. Please attribute the original Julia developer
 
 **Original Author:** [Benjamin Fried](https://csh.ac.at/95906-2/)
 
-**Textbook:** [Modeling Social Dynamics: A Cycle of Iterative Development](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior) by Paul Smaldino.
+**Textbook:** [Modeling Social Dynamics: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior) by Paul Smaldino.
